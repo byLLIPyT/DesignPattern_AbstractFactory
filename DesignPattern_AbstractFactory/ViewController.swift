@@ -12,9 +12,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
-
+    @IBAction func OrderKichen(_ sender: Any) {
+    }
+    
+    
+    @IBAction func orderBedroom(_ sender: Any) {
+    }
+    
 }
 
